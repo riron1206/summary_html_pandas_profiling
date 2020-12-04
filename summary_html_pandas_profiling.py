@@ -28,7 +28,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-print("pdp.__version__", pdp.__version__)
+# print("pdp.__version__", pdp.__version__)
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()

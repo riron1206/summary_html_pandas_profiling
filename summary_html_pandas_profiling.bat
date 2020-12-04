@@ -1,6 +1,8 @@
-@rem ä½œæˆæ—¥2020/07/08 summary_html_pandas_profiling.pyå®Ÿè¡Œ
+@rem ì¬“ú2020/07/08 summary_html_pandas_profiling.pyÀs
 
 call activate tfgpu
+
+@rem set PY_DIR=C:\Users\81908\MyGitHub\summary_html_pandas_profiling\
 
 call python summary_html_pandas_profiling.py ^
 -o tmp ^
